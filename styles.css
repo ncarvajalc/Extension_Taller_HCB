@@ -1,0 +1,67 @@
+.header {
+  background-color: rgb(221, 44, 0);
+  color: white;
+}
+
+.pokeball {
+  background-color: rgb(255, 61, 0);
+}
+
+.explicacion1 {
+  font-family: 'Monaco';
+  background-color: rgb(255, 61, 0);
+  margin-top: 10px;
+  padding: 5px 5px 5px 5px;
+  border: 5px solid rgb(54,71,79);
+  color: white;
+}
+
+.explicacion2 {
+  font-family: 'Monaco';
+  font-weight: bolder;
+  background-color: white;
+  color: rgb(54,71,79);
+  margin-top: 10px;
+  padding: 5px 5px 5px 5px;
+  border: 5px solid rgb(54,71,79);
+}
+
+.darker {
+  background-color: rgb(200, 44, 0);
+}
+
+.even-darker {
+  background-color: rgb(180, 44, 0);
+}
+
+.darkest {
+  background-color: rgb(160, 44, 0);
+}
+
+.title {
+  background-color: rgb(221, 44, 0);
+}
+
+.g1 {
+  background-color: rgb(240, 248, 252);
+}
+
+.g2 {
+  background-color: rgb(235, 243, 247);
+}
+
+.g3 {
+  background-color: rgb(240, 238, 242);
+}
+
+.g4 {
+  background-color: rgb(235, 233, 237);
+}
+
+.g5 {
+  background-color: rgb(230, 228, 232);
+}
+
+.g6 {
+  background-color: rgb(225, 223, 227);
+}
